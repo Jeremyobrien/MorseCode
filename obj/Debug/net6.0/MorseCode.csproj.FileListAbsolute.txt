@@ -1,0 +1,15 @@
+/Users/jeremyobrien/Projects/MorseCode/MorseCode/bin/Debug/net6.0/MorseCode
+/Users/jeremyobrien/Projects/MorseCode/MorseCode/bin/Debug/net6.0/MorseCode.deps.json
+/Users/jeremyobrien/Projects/MorseCode/MorseCode/bin/Debug/net6.0/MorseCode.runtimeconfig.json
+/Users/jeremyobrien/Projects/MorseCode/MorseCode/bin/Debug/net6.0/MorseCode.dll
+/Users/jeremyobrien/Projects/MorseCode/MorseCode/bin/Debug/net6.0/MorseCode.pdb
+/Users/jeremyobrien/Projects/MorseCode/MorseCode/obj/Debug/net6.0/MorseCode.csproj.AssemblyReference.cache
+/Users/jeremyobrien/Projects/MorseCode/MorseCode/obj/Debug/net6.0/MorseCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeremyobrien/Projects/MorseCode/MorseCode/obj/Debug/net6.0/MorseCode.AssemblyInfoInputs.cache
+/Users/jeremyobrien/Projects/MorseCode/MorseCode/obj/Debug/net6.0/MorseCode.AssemblyInfo.cs
+/Users/jeremyobrien/Projects/MorseCode/MorseCode/obj/Debug/net6.0/MorseCode.csproj.CoreCompileInputs.cache
+/Users/jeremyobrien/Projects/MorseCode/MorseCode/obj/Debug/net6.0/MorseCode.dll
+/Users/jeremyobrien/Projects/MorseCode/MorseCode/obj/Debug/net6.0/refint/MorseCode.dll
+/Users/jeremyobrien/Projects/MorseCode/MorseCode/obj/Debug/net6.0/MorseCode.pdb
+/Users/jeremyobrien/Projects/MorseCode/MorseCode/obj/Debug/net6.0/MorseCode.genruntimeconfig.cache
+/Users/jeremyobrien/Projects/MorseCode/MorseCode/obj/Debug/net6.0/ref/MorseCode.dll
